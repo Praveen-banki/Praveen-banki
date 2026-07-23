@@ -1,24 +1,41 @@
-<h1 align="center">Hi 👋, I'm <span style="color:#00BFFF;">BANKI Praveen</span></h1>
+<h1 align="center">Hi 👋, I'm BANKI Praveen</h1>
 
 <h3 align="center">
-🚀 Passionate DevOps Engineer | ☁️ Cloud Enthusiast | 🐧 Linux Lover
+🚀 DevOps Engineer | ☁️ Cloud Enthusiast | 🐧 Linux Explorer
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&color=00C4FF&center=true&vCenter=true&width=600&lines=DevOps+Engineer;AWS+%7C+Docker+%7C+Kubernetes;CI%2FCD+Automation;Always+Learning+Something+New!">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub!;DevOps+Engineer;AWS+%7C+Docker+%7C+Kubernetes;CI%2FCD+Automation;Always+Learning+New+Things!" />
 </p>
 
 ---
 
+<table>
+<tr>
+
+<td width="55%">
+
 ### 👨‍💻 About Me
 
-- 🌱 Currently learning **Advanced DevOps & Kubernetes**
-- 👯 Looking to collaborate on **Cloud Native Projects**
-- 🤝 Open to learning **DevOps Best Practices**
-- 💻 Portfolio: https://portfolio-hazel-six-79.vercel.app/
-- 📧 Email: **prawinbanki7@gmail.com**
-- 📄 Resume: https://drive.google.com/file/d/1gJvZyNaWp7Z5_qdiRO0YYhi_rvVOKk4g/view
-- ⚡ Fun Fact: **Your phone dies faster than your motivation 😂**
+- 🌱 Learning **Advanced Kubernetes & Cloud**
+- 💼 Interested in **DevOps & Cloud Native Projects**
+- 🤝 Open to collaboration
+- 📧 **prawinbanki7@gmail.com**
+- 🌐 Portfolio  
+  https://portfolio-hazel-six-79.vercel.app/
+- ⚡ Fun Fact  
+  **Your phone dies faster than your motivation 😂**
+
+</td>
+
+<td width="45%">
+
+<img width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+
+</td>
+
+</tr>
+</table>
 
 ---
 
@@ -26,79 +43,59 @@
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/banki-praveen-bb7910289/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/banki-praveen-bb7910289">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="mailto:prawinbanki7@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
 </a>
 
 </p>
 
 ---
 
-## 🚀 Tech Stack
+# 💻 Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,linux,bash,git,github,java,python,mysql,html,css,react,nodejs,flask,nginx,oracle,vscode"/>
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,linux,bash,git,github,java,python,mysql,html,css,react,nodejs,flask,nginx,vscode&perline=9"/>
 
 </p>
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+## 🐍 Contribution Snake
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg">
 
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+## ☕ Visitor Count
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=onedark&row=1&column=7"/>
-
-</p>
-
----
-
-## 📈 Activity Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night"/>
-
-</p>
-
----
-
-## 👀 Profile Views
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blue"/>
 
 </p>
 
@@ -106,8 +103,6 @@
 
 <h3 align="center">
 
-💙 Thanks for visiting my profile 💙
-
-⭐ Don't forget to Star my repositories ⭐
+⭐ Thanks for visiting my profile ⭐
 
 </h3>
