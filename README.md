@@ -53,7 +53,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,linux,bash,git,github,java,python,mysql,html,css,react,nodejs,flask,nginx,vscode&perline=6"/>
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,linux,github,java,python,mysql,html,css,react,nodejs,vscode&perline=7" />
 
 </p>
 
