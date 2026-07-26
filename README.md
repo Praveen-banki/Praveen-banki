@@ -1,108 +1,102 @@
-<h1 align="center">Hi 👋, I'm BANKI Praveen</h1>
+<div align="center">
 
-<h3 align="center">
-🚀 DevOps Engineer | ☁️ Cloud Enthusiast | 🐧 Linux Explorer
-</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:00B4DB,100:0083B0&text=BANKI%20PRAVEEN&fontColor=ffffff&fontSize=42&animation=fadeIn&fontAlignY=38&desc=DevOps%20Engineer%20|%20Cloud%20Enthusiast&descAlignY=58"/>
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub!;DevOps+Engineer;AWS+%7C+Docker+%7C+Kubernetes;CI%2FCD+Automation;Always+Learning+New+Things!" />
-</p>
+# Hi 👋, I'm BANKI Praveen
 
----
+### 🚀 DevOps Engineer | ☁️ AWS | 🐳 Docker | ☸️ Kubernetes | 🐧 Linux
 
-<table>
-<tr>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;DevOps+Engineer;Cloud+Native+Learner;AWS+%7C+Docker+%7C+Kubernetes;Always+Learning+New+Things!" />
 
-<td width="55%">
-
-### 👨‍💻 About Me
-
-- 🌱 Learning **Advanced Kubernetes & Cloud**
-- 💼 Interested in **DevOps & Cloud Native Projects**
-- 🤝 Open to collaboration
-- 📧 **prawinbanki7@gmail.com**
-- 🌐 Portfolio  
-  https://portfolio-hazel-six-79.vercel.app/
-- ⚡ Fun Fact  
-  **Your phone dies faster than your motivation 😂**
-
-</td>
-
-<td width="45%">
-
-<img width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
-
-</td>
-
-</tr>
-</table>
+</div>
 
 ---
 
-## 🌐 Connect With Me
+# 👨‍💻 About Me
+
+- 🌱 Learning **Advanced Kubernetes & DevOps**
+- ☁️ Interested in **Cloud Computing**
+- 🚀 Passionate about **Automation & CI/CD**
+- 🤝 Looking to collaborate on **Open Source Projects**
+- 🌐 Portfolio: https://portfolio-hazel-six-79.vercel.app/
+- 📧 Email: **prawinbanki7@gmail.com**
+- 💼 LinkedIn: https://www.linkedin.com/in/banki-praveen-bb7910289/
+- ⚡ Fun Fact: **Your phone dies faster than your motivation 😂**
+
+---
+
+# 🌐 Connect With Me
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/banki-praveen-bb7910289">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+<a href="https://www.linkedin.com/in/banki-praveen-bb7910289/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:prawinbanki7@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+<a href="https://portfolio-hazel-six-79.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Praveen-banki">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
 </p>
 
 ---
 
-# 💻 Tech Stack
+# 🛠️ Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,linux,bash,git,github,java,python,mysql,html,css,react,nodejs,flask,nginx,vscode&perline=9"/>
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,linux,bash,git,github,java,python,mysql,html,css,react,nodejs,flask,nginx,vscode&perline=6"/>
 
 </p>
 
 ---
 
-# 📊 GitHub Stats
+# 📌 Featured Technologies
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://img.shields.io/badge/AWS-Cloud-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-Containers-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-Orchestration-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jenkins-CI/CD-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-Open%20Source-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 
 </p>
 
 ---
 
-## 🐍 Contribution Snake
+# 🔥 GitHub Streak
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg">
+<img src="https://streak-stats.demolab.com?user=Praveen-banki&theme=tokyonight&hide_border=true&border_radius=15"/>
 
 </p>
 
 ---
 
-## ☕ Visitor Count
+# 💬 Favorite Quote
 
-<p align="center">
+<div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blue"/>
+> ### *"Code. Automate. Deploy. Repeat. 🚀"*
 
-</p>
+</div>
 
 ---
 
-<h3 align="center">
+<div align="center">
 
-⭐ Thanks for visiting my profile ⭐
+### ⭐ Thanks for Visiting My Profile ⭐
 
-</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00B4DB,100:0083B0"/>
+
+</div>
