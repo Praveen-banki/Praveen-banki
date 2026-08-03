@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:00B4DB,100:0083B0&text=BANKI%20PRAVEEN&fontColor=ffffff&fontSize=42&animation=fadeIn&fontAlignY=38&desc=DevOps%20Engineer%20|%20Cloud%20Enthusiast&descAlignY=58"/>
 
-# Hi 👋, I'm BANKI Praveen
+# Hi 👋, I'm BANKI_Praveen
 
 ### 🚀 DevOps Engineer | ☁️ AWS | 🐳 Docker | ☸️ Kubernetes | 🐧 Linux
 
